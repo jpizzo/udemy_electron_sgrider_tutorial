@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jpizzo/udemy_electron_sgrider_tutorial#readme",
   "dependencies": {
-    "electron": "^4.0.0"
+    "electron": "^4.0.0",
+    "fluent-ffmpeg": "^2.1.2"
   }
 }
