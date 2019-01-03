@@ -1,0 +1,22 @@
+{
+  "name": "udemy_electron_sgrider_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpizzo/udemy_electron_sgrider_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpizzo/udemy_electron_sgrider_tutorial/issues"
+  },
+  "homepage": "https://github.com/jpizzo/udemy_electron_sgrider_tutorial#readme",
+  "dependencies": {
+    "electron": "^4.0.0"
+  }
+}
